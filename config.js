@@ -10,7 +10,7 @@ import moment from "moment-timezone";
 
 global.owner = [
 ["917821096044", 'syntax king', true],
-["917821096044", 'shubham', true], 
+["918010431346", 'Pratap', true], 
 ];
 global.openai_key = "sk-...OzYy2";
 
@@ -19,12 +19,13 @@ global.openai_org_id = "HITjoN7H8pCwoncEB9e3fSyW";
 
 global.stickpack = 'syntax-king'
 global.stickauth = `syntax-md`
+global.sessionName = 'session'
 
 global.mods = [];
 global.prems = ["917821096044"];
 
 
-global.mods = []; 
+global.mods = [918010431346]; 
 
 global.cheerio = cheerio;
 global.fs = fs;
